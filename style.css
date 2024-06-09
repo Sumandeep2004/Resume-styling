@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(255, 251, 240, 0.934);
+}
+
+
+#container{height: 300px;
+   width: 300px;
+    margin-left: 580px;
+    background-color: hwb(32 94% 0%);
+    background-image: url(images/mydp.jpeg);
+    background-size: contain;
+    border: solid salmon 4px;
+    border-radius: 50%;
+}
+h2{background-color: bisque;
+    text-align: center;
+    color: darkred;
+}
+#designation{
+color:rgb(65, 5, 5);
+background-color: rgb(211, 163, 163);
+text-align: center;
+}
+h3{font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+    background-color: antiquewhite;
+    
+}
+#contact{height: 50px;
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+}
+p{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
