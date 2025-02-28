@@ -7,7 +7,7 @@ body{
    width: 300px;
     margin-left: 580px;
     background-color: hwb(32 94% 0%);
-    background-image: url('mydp.jpg');
+    background-image: url(mydp.jpg);
     background-size: contain;
     border: solid salmon 4px;
     border-radius: 50%;
